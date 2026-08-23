@@ -1,0 +1,7 @@
+{
+    "TOKEN": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "PREFIX": "$",
+    "ADMIN_IDS": [123456789012345678],
+    "ANTINUKE_ENABLED": true,
+    "DEFAULT_DATA_DIR": "./vps_data"
+}
